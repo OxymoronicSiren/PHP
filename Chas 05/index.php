@@ -35,4 +35,10 @@ if($x > $y) {
     echo $y. "e pogolemo od " .$x;
 }
 
+//String Operators 
 
+$txt = 10;
+$txt1 = 11;
+
+concatanacija. $txt.$txt1 
+.= $txt.=$txt1;
