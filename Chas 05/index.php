@@ -37,8 +37,12 @@ if($x > $y) {
 
 //String Operators 
 
-$txt = 10;
-$txt1 = 11;
+//concatanacija. $txt.$txt1 
+//.= $txt.=$txt1;
 
-concatanacija. $txt.$txt1 
-.= $txt.=$txt1;
+$txt= "Zdravo";
+
+$txt1= "Petre";
+
+echo $txt.$txt1;
+echo "<br>"
